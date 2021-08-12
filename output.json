@@ -36,8 +36,8 @@
         "colour": "Sky Blue",
         "availabilityText": "In Stock Online",
         "isAvailable": true,
-        "shippingText": "Delivery by 6 May 2021",
-        "shippingDate": "2021-05-06"
+        "shippingText": "Delivery by 2021-08-13",
+        "shippingDate": "2021-08-13"
     },
     {
         "title": "Samsung Galaxy S20 128GB",
@@ -47,8 +47,8 @@
         "colour": "Grey",
         "availabilityText": "In Stock",
         "isAvailable": true,
-        "shippingText": "Available on Wednesday 12th May 2021",
-        "shippingDate": "2021-05-12"
+        "shippingText": "Available on 19 Aug 2021",
+        "shippingDate": "2021-08-19"
     },
     {
         "title": "Huawei P30 Pro 128GB",
@@ -68,8 +68,8 @@
         "colour": "Orange",
         "availabilityText": "Out of Stock",
         "isAvailable": false,
-        "shippingText": "Delivery from 4 Jun 2021",
-        "shippingDate": "2021-06-04"
+        "shippingText": "Delivery from 11 Sep 2021",
+        "shippingDate": "2021-09-11"
     },
     {
         "title": "Nokia 3310 100MB",
@@ -79,8 +79,8 @@
         "colour": "Yellow",
         "availabilityText": "Out of Stock",
         "isAvailable": false,
-        "shippingText": "Delivery from 4 Jun 2021",
-        "shippingDate": "2021-06-04"
+        "shippingText": "Delivery from 11 Sep 2021",
+        "shippingDate": "2021-09-11"
     },
     {
         "title": "Nokia 3310 100MB",
@@ -90,8 +90,8 @@
         "colour": "Grey",
         "availabilityText": "Out of Stock",
         "isAvailable": false,
-        "shippingText": "Delivery from 4 Jun 2021",
-        "shippingDate": "2021-06-04"
+        "shippingText": "Delivery from 11 Sep 2021",
+        "shippingDate": "2021-09-11"
     },
     {
         "title": "Nokia 3310 100MB",
@@ -101,8 +101,8 @@
         "colour": "Blue",
         "availabilityText": "Out of Stock",
         "isAvailable": false,
-        "shippingText": "Delivery from 4 Jun 2021",
-        "shippingDate": "2021-06-04"
+        "shippingText": "Delivery from 11 Sep 2021",
+        "shippingDate": "2021-09-11"
     },
     {
         "title": "Google Pixel 5 256 GB",
@@ -112,8 +112,8 @@
         "colour": "Black",
         "availabilityText": "In Stock",
         "isAvailable": true,
-        "shippingText": "Delivers Wednesday 5th May 2021",
-        "shippingDate": "2021-05-05"
+        "shippingText": "Delivers 12 Aug 2021",
+        "shippingDate": "2021-08-12"
     },
     {
         "title": "Sony Xperia 10 32 GB",
@@ -142,8 +142,8 @@
         "colour": "Black",
         "availabilityText": "In Stock",
         "isAvailable": true,
-        "shippingText": "Free Delivery 06 May 2021",
-        "shippingDate": "2021-05-06"
+        "shippingText": "Free Delivery 13 Aug 2021",
+        "shippingDate": "2021-08-13"
     },
     {
         "title": "Oppo Reno4 Pro 5G 64 GB",
@@ -164,7 +164,7 @@
         "availabilityText": "In Stock",
         "isAvailable": true,
         "shippingText": "Free Delivery tomorrow",
-        "shippingDate": "2021-05-06"
+        "shippingDate": "2021-08-13"
     },
     {
         "title": "Google Pixel 4 64 GB",
@@ -174,8 +174,8 @@
         "colour": "Black",
         "availabilityText": "In Stock",
         "isAvailable": true,
-        "shippingText": "Delivers 5 May 2021",
-        "shippingDate": "2021-05-05"
+        "shippingText": "Delivers Thursday 12th Aug 2021",
+        "shippingDate": "2021-08-12"
     },
     {
         "title": "Google Pixel 4 64 GB",
@@ -185,8 +185,8 @@
         "colour": "White",
         "availabilityText": "In Stock",
         "isAvailable": true,
-        "shippingText": "Delivers 5 May 2021",
-        "shippingDate": "2021-05-05"
+        "shippingText": "Delivers Thursday 12th Aug 2021",
+        "shippingDate": "2021-08-12"
     },
     {
         "title": "LG K42 128 GB",
@@ -196,8 +196,8 @@
         "colour": "Black",
         "availabilityText": "In Stock",
         "isAvailable": true,
-        "shippingText": "Order within 6 hours and have it 07 May 2021",
-        "shippingDate": "2021-05-07"
+        "shippingText": "Order within 6 hours and have it 2021-08-14",
+        "shippingDate": "2021-08-14"
     },
     {
         "title": "Samsung Galaxy S20 64GB",
@@ -207,7 +207,7 @@
         "colour": "Grey",
         "availabilityText": "In Stock",
         "isAvailable": true,
-        "shippingText": "Free Delivery Thursday 6th May 2021",
-        "shippingDate": "2021-05-06"
+        "shippingText": "Free Delivery 13 Aug 2021",
+        "shippingDate": "2021-08-13"
     }
 ]
